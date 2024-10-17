@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MyRepo"
+rootProject.name = "P3E1_Gestionnaire_de_taches"
 include ':app'
